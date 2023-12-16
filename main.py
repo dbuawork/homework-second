@@ -22,3 +22,6 @@ elif n3 <= n1 and n3 <= n1:
     print(f"Найменше число: {n3}")
 else:
     print(f"equals")
+
+# # Знаходимо середнє із трьох
+print(n1 + n2 + n3 / 3)
