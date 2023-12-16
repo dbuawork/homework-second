@@ -30,7 +30,7 @@
 
 meters = int(input("Enter quantity M: "))
 
-if meters
+if
     miles = meters * 0.000621371
     print(f"{meters} metr = {miles} miles")
 elif meters
