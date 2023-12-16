@@ -28,4 +28,11 @@
 #
 # #
 
-n1 = int(input("Enter first number M"))
+meters = int(input("Enter quantity M: "))
+
+if meters * 0.000621371:
+    print(f"{meters} metr = ")
+elif meters * 39.3701
+    print(f"{meters} metr = ")
+elif meters * 39.3701
+    print(f"{meters} metr = ")
