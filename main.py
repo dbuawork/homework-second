@@ -30,14 +30,11 @@
 
 meters = int(input("Enter quantity M: "))
 
-if
+if meters:
     miles = meters * 0.000621371
-    print(f"{meters} metr = {miles} miles")
-elif meters
     inches = meters * 39.3701
-    print(f"{meters} metr = {inches} miles")
-elif meters
     yards = meters * 1.09361
-    print(f"{meters} metr = {yards} yards")
+    print(f"{meters} metr = {miles} miles,\n{meters} metr = {inches} inches,\n{meters} metr = {yards} yards")
+
 else:
     print("Not Exist number")
